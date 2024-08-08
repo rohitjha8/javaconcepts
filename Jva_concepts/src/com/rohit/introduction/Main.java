@@ -14,6 +14,6 @@ public class Main {
     }}
     class Student{
         String name;
-        int rollno;d
+        int rollno;
         float marks;
     }
